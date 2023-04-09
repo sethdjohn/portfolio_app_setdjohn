@@ -1,0 +1,26 @@
+* 
+
+
+{
+    color: #ffffff;
+}
+
+.navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=fff');
+}
+
+.carousel-item img {
+    object-fit: cover;
+    filter: brightness(50%);
+}
+
+
+.accordion-body img {
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+.accordion-item {
+    text-align: center;
+}

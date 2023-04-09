@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(184, 100%, 18%);
+
+}
+
+.bg-body {
+    background-color: transparent !important;
+}
+
+
+.row {
+    margin-right: 0px;
+}
+
